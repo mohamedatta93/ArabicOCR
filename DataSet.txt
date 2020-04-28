@@ -1,0 +1,4 @@
+the data set without data augmentation 
+to get data augmented run DataAugmentor Code
+http://www.cs.nott.ac.uk/~pszcah/Databases.htm
+http://www.cs.nott.ac.uk/~pszcah/AHDB/AHDBmst_wrd.zip
